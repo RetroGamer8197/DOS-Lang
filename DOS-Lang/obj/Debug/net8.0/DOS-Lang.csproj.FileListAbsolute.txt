@@ -1,0 +1,14 @@
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/bin/Debug/net8.0/DOS-Lang
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/bin/Debug/net8.0/DOS-Lang.deps.json
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/bin/Debug/net8.0/DOS-Lang.runtimeconfig.json
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/bin/Debug/net8.0/DOS-Lang.dll
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/bin/Debug/net8.0/DOS-Lang.pdb
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/obj/Debug/net8.0/DOS-Lang.GeneratedMSBuildEditorConfig.editorconfig
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/obj/Debug/net8.0/DOS-Lang.AssemblyInfoInputs.cache
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/obj/Debug/net8.0/DOS-Lang.AssemblyInfo.cs
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/obj/Debug/net8.0/DOS-Lang.csproj.CoreCompileInputs.cache
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/obj/Debug/net8.0/DOS-Lang.dll
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/obj/Debug/net8.0/refint/DOS-Lang.dll
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/obj/Debug/net8.0/DOS-Lang.pdb
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/obj/Debug/net8.0/DOS-Lang.genruntimeconfig.cache
+/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/obj/Debug/net8.0/ref/DOS-Lang.dll

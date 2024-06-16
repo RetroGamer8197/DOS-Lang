@@ -1,0 +1,3 @@
+nasm BuildData/bootsector.asm -o build/bootsector.bin
+nasm temp.asm -o build/exec.bin
+nasm BuildData/build.asm -o build/disk.bin

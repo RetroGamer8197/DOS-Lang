@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zHI2zZlzVa7l+ZIvA1K9LZ56s9F0om67qlERYtpm2nv8kyxjkPZDT00ruUXAgI2RsScK+8HhDiq2rTaD87DqYw==",
+  "success": true,
+  "projectFilePath": "/home/thomas/Documents/Projects/DOS-Lang/DOS-Lang/DOS-Lang.csproj",
+  "expectedPackageFiles": [
+    "/home/thomas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -36,7 +36,7 @@ class Program {
         public string[] parameterDataTypes;
     }
 
-    struct parameter {
+    struct Parameter {
         public string identifier;
         public string dataType;
     }
@@ -190,7 +190,7 @@ class Program {
 
     static Function BuildFunction(string[] sourceContents, int si) {
         int parameterCount = 0;
-        List<parameter> parameters = [];
+        List<Parameter> parameters = [];
         string temp = "";
         for (int i = sourceContents[si].IndexOf('('); i < sourceContents[si].Length; i++) {
             if (sourceContents[si][i] == ',') {

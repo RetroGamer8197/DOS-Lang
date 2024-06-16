@@ -1,6 +1,6 @@
 # DOS-Lang
 
-DOS-Lang is a language I am developing to make it easier to create applications for my OS, DOS-ASM. I initially planned for this to be called B flat but this may be changed in the future. That is why the project folders contain the name Bb.
+DOS-Lang is a language I am developing to make it easier to create applications for my OS, DOS-ASM.
 
 
 
